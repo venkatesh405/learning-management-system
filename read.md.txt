@@ -1,0 +1,20 @@
+# course-Management-System
+
+Mentor - Bhupathi
+
+- Instructions to install
+
+- I have used NodeJs version , NPM version
+- After cloning/downloading the repository, cd to the cloned directory
+- Go to the config.js in the server directory and enter the database credentials
+- Create a database named student_records or you can it in config.js file
+- Install MySQL in your machine if it is not present already , In my case I picked xampp mysql
+- Run the follwoing commands:
+- npm install
+- Node server/server.js
+
+- Go to http://localhost:3000/ in your browser
+
+- Instructions to use the application
+- A Teacher has to signup and add students, courses and even grades to the system
+- A student can check can pick his course and get grades by entering his username 
